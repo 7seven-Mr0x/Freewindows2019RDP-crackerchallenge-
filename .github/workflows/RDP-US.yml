@@ -1,4 +1,4 @@
-name: CI
+name: seven
 
 on: workflow_dispatch
 
